@@ -18,6 +18,7 @@ return {
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.astro" },
+  { import = "astrocommunity.pack.python" },
 
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
